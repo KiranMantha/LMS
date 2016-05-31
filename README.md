@@ -1,4 +1,10 @@
 # LMS
-Leave Management system
+Leave Management system.
 
-A complete Leave Management System.
+### Usage :
+
+```sh
+node app
+```
+
+Locate your browser to http://localhost:4000/
